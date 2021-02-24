@@ -1,0 +1,10 @@
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\bin\Debug\Funnybird.exe.config
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\bin\Debug\Funnybird.exe
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\bin\Debug\Funnybird.pdb
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\obj\Debug\Funnybird.csprojAssemblyReference.cache
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\obj\Debug\Funnybird.Form1.resources
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\obj\Debug\Funnybird.Properties.Resources.resources
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\obj\Debug\Funnybird.csproj.GenerateResource.cache
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\obj\Debug\Funnybird.csproj.CoreCompileInputs.cache
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\obj\Debug\Funnybird.exe
+C:\Users\Gesha\Documents\C#\Funnybird\Funnybird\obj\Debug\Funnybird.pdb
